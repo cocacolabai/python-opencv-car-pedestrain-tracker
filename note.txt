@@ -1,0 +1,5 @@
+pip3 install opencv-python-headless
+
+python3 image.py
+
+python3 video.py
